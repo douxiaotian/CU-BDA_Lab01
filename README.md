@@ -6,6 +6,6 @@ Gary King's study http://gking.harvard.edu/files/gking/files/experiment_0.pdf on
 
 The data analysis includes using collection of social media post before and after censorship is conducted. The collection of social media text data includes weibo(Chinese twitter) and self-build websites.
 
-a picture show how the oberservational result look like.
+a picture show how the oberservational result looks like.
 
 
